@@ -1,6 +1,3 @@
 function ProjectBox() {
-    return(
-        <>
-        </>
-    )
+  return <></>;
 }
